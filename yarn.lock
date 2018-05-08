@@ -6672,6 +6672,10 @@ node-pre-gyp@^0.6.39:
     tar "^2.2.1"
     tar-pack "^3.4.0"
 
+node-run-cmd@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/node-run-cmd/-/node-run-cmd-1.0.1.tgz#1755c12624bdff920d8f45242d6642e214a3d400"
+
 node-sass@^4.7.2:
   version "4.7.2"
   resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.7.2.tgz#9366778ba1469eb01438a9e8592f4262bcb6794e"
